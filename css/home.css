@@ -314,7 +314,7 @@
 }
 
 .para2 {
-    background: radial-gradient(859px at 10% 20%, rgba(202, 180, 118, 0.726) 0%, #a44d33bd 80%), url(/images/bg2.jpg)  repeat fixed 100% ;
+    background: radial-gradient(859px at 10% 20%, rgba(202, 180, 118, 0.726) 0%, #a44d33bd 80%), url('../images/bg2.jpg')  repeat fixed 100% ;
     background-size: cover;
     /* background-color: rgba(0, 0, 0, 0.397);*/
 }
